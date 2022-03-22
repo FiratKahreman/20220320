@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Models", "01_Models\01_Models.csproj", "{987041B6-257D-4F5A-AA13-03EE5F8B93F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HttpMethods", "02_HttpMethods\02_HttpMethods.csproj", "{2548A3CB-8607-4887-9588-C48CFC5C3032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987041B6-257D-4F5A-AA13-03EE5F8B93F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987041B6-257D-4F5A-AA13-03EE5F8B93F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987041B6-257D-4F5A-AA13-03EE5F8B93F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987041B6-257D-4F5A-AA13-03EE5F8B93F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2548A3CB-8607-4887-9588-C48CFC5C3032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2548A3CB-8607-4887-9588-C48CFC5C3032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2548A3CB-8607-4887-9588-C48CFC5C3032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2548A3CB-8607-4887-9588-C48CFC5C3032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E68CCB-2FC4-4DAA-AEC1-6A7E9659D379}
+	EndGlobalSection
+EndGlobal
